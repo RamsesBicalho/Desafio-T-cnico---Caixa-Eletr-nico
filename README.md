@@ -2,7 +2,10 @@
 
 Este é um programa simples em Python que simula um caixa eletrônico, permitindo ao usuário sacar um valor específico com base nas cédulas disponíveis (R$ 100, R$ 50, R$ 20, R$ 10, R$ 5, R$ 2).
 
-## FuncionalidadesValidação de Entrada: Garantir que o valor digitado seja um número inteiro e múltiplo de 2 ou 5.
+## Funcionalidades
+
+Validação de Entrada: Garantir que o valor digitado seja um número inteiro e múltiplo de 2 ou 5.
+
 Lógica de Contagem de Cédulas: Organizar o fluxo para calcular e exibir a quantidade correta de cada cédula necessária para o valor solicitado.
 
 - O programa exibe um cabeçalho e lista as cédulas disponíveis.
